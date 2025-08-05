@@ -1,5 +1,6 @@
+<h1 align="center">Calculadora de Imposto de Renda em C#</h1>
+
 <p align="center">
-  <b>Calculadora de Imposto de Renda em C#</b><br>
   Projeto prático desenvolvido no curso <a href="https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/">C# Completo e POO - Nélio Alves</a>
 </p>
 
